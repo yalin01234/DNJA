@@ -25,7 +25,7 @@ docker-compose build
 
 ### Database
 
-Create MySQL database and credentials and configure the same in:
+Create MySQL database and credentials and configure the same in: #
 
 ```
 ./src/main/webapp/WEB-INF/config.properties
