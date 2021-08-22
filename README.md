@@ -45,6 +45,8 @@ $ mysql -u USER -pPASSWORD dvja < ./db/schema.sql
 $ mvn clean package
 ```
 
+
+### Test 22/08 13:41
 The deployable `war` file is generated in targets directory.
 
 ## Run with Jetty
