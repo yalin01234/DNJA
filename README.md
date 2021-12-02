@@ -46,7 +46,7 @@ $ mvn clean package
 ```
 
 
-### **Test 02/12 12:00
+### **Test 02/12 13:16
 The deployable `war` file is generated in targets directory.
 
 ## Run with Jetty
