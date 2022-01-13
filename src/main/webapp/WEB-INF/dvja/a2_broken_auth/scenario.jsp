@@ -2,4 +2,4 @@
 <div class='markdown'>
 * [Forgot Password: Password Reset](<s:url action="resetPasswordStart"/>)
 </div>
-///Yalin Arie /// Comment for testing ///
+///Yalin Arie /// Comment for testing ///no will admit a poilcy // 
