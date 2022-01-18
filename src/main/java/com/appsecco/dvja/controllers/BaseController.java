@@ -24,6 +24,8 @@ public class BaseController extends ActionSupport implements ServletRequestAware
             session = ActionContext.getContext().getSession();
         return session;
     }
+    
+    ///Yalin Arie Test///
 
     @Override
     public void setSession(Map<String, Object> session) {
@@ -76,5 +78,6 @@ public class BaseController extends ActionSupport implements ServletRequestAware
         }
 
         return NONE;
+        //return NONE;
     }
 }
