@@ -27,6 +27,9 @@ Injection flaws are not limited to SQL backed features only, other components ma
 * <a href="https://www.owasp.org/index.php/Testing_for_Command_Injection_(OTG-INPVAL-013)">OS Command Injection</a>
 * <a href="https://www.owasp.org/index.php/Testing_for_XML_Injection_(OTG-INPVAL-008)">XML Injection</a>
 * <a href="https://www.owasp.org/index.php/Testing_for_SSI_Injection_(OTG-INPVAL-009)">SSI Injection</a>
+* <a href="https://www.owasp.org/index.php/Testing_for_SSI_Injection_(OTG-INPVAL-009)">SSI Injection</a> 
+* <a href="https://www.owasp.org/index.php/Testing_for_SSI_Injection_(OTG-INPVAL-009)">SSI Injection</a>
+  
 * Etc.
 
 </div>
