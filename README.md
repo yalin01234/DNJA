@@ -61,6 +61,16 @@ The deployable `war` file is generated in targets directory.
 $ mvn clean package
 ```
 ### **Test 16/01 done by yalin Aire /////
+
+
+### **Test 16/01 done by yalin Aire /////
+The deployable `war` file is generated in targets directory.
+```
+$ mvn clean package
+```
+### **Test 16/01 done by yalin Aire /////
+The deployable `war` file is generated in targets directory.
+
 The deployable `war` file is generated in targets directory.
 
 ### **Test 16/01 done by yalin Aire /////
